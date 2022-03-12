@@ -1,3 +1,9 @@
+! Projet realise dans le cadre du cours de 3eme annee de l'enseirb-matmeca AN309 "Technique de 
+! maillage"
+! Auteurs : Benjamin Benon - bbenon@enseirb-matmeca.fr
+!           Leo Cicerale - lcicerale@enseirb-matmeca.fr
+!           Yoan Gorschka - ygorschka@enseirb-matmeca.fr
+
 Program main
 
   Use border
